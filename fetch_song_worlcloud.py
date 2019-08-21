@@ -60,13 +60,7 @@ A = figo_fagot(URLS[0])
 B = figo_fagot(URLS[1])
 
 C = A.text_song()+B.text_song()
-# song_names = []
-# for URL in URLS:
-# 	x = get_song_name(URL)
-# 	song_names.append(x)
 
-
-# song_names = sum(song_names, [])
 
 song_all_text = ""
 for text in C:
@@ -109,20 +103,4 @@ plt.tight_layout(pad = 0)
 plt.show()
 
 
-# from nltk.tokenize import RegexpTokenizer
-
-# tokenizer = RegexpTokenizer(r'\w+')
-
-# result = tokenizer.tokenize(cloud)
-
-
-
-# import nltk
-
-# nltk_tokens = nltk.word_tokenize(cloud)  	
-
-# x = list(nltk.bigrams(nltk_tokens))
-
-# bigram_df = pd.DataFrame(x)
-# bigram_df.to_csv("bigram.csv", encoding='utf-8')
 

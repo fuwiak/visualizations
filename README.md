@@ -38,6 +38,23 @@ https://www.youtube.com/ 20.07.2019
 https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F0sgqppw&hl=en-US
 
 # BONUS
+## PL
+Lista najczęściej występujących słów w piosenkach BFF. Im większe słowo, tym większa jego częstotliwość w tekstach.
+Zagorzali fani już uśmiechają się pod nosem, najważniejsze frazy są niepokojąco znajome. No to myk!
+Uwaga: kod znajduje sie w pliku fetch_song_worlcloud.py
+wersja Pythona 2.7
+
+## ENG
+
+List of the most common words in BFF songs. The larger the word, the higher its frequency in the texts.
+Note: the code is in the fetch_song_worlcloud.py file
+Python version 2.7
+
+## RU 
+
+Список наиболее распространенных слов в песнях BFF. Чем больше слово, тем выше его частота в текстах.
+Примечание: код находится в fetch_song_worlcloud.py файл
+Python версия 2.7
 
 ![bff](cloud_bff.png)
 

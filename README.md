@@ -29,9 +29,8 @@ This chart shows the absolute values of views on YouTube . The music videos were
 На этой диаграмме показаны абсолютные значения просмотров на YouTube . Музыкальные клипы были представлены в том порядке, в котором они появились на сайте.
 
 
-Zrodla danych:
-Sources:
-Источники
+Zrodla danych, Sources, Источники данных
+
 https://pl.wikipedia.org/wiki/Bracia_Figo_Fagot
 
 https://www.youtube.com/ 20.07.2019

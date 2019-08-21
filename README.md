@@ -9,10 +9,12 @@ Dane zostały ściągnięte w formacie csv ze google.trends.com, po czym uległy
 
 ## ENG
 The chart shows relative interest / popularity of group "Bracia Figo Fagot" in google trends.
-The data was downloaded in csv format, and it was subsequently transformed using tools such as Python (Pandas, Matplotlib). Titles of the music videos corresponding with release date on youtube.com(marked as red text on the chart).As you can notice, icresing of popularity usually correlate with the premieres of music videos.
+The data was downloaded in csv format, and it was subsequently transformed using tools such as Python (Pandas, Matplotlib). Titles of the music videos corresponding with release date on youtube.com(marked as red text on the chart). As you can notice, increasing of popularity usually correlate with the premieres of music videos.
 
+## RU
 
-
+На графике показана относительная заинтересованность / популярность группы "Bracia Figo Fagot" в Google trends.
+Данные были загружены в формате csv, а затем преобразованы с помощью таких инструментов, как Python (Pandas, Matplotlib). Названия музыкальных клипов, соответствующие дате релиза на youtube.com. Как вы можете заметить, рост популярности обычно коррелирует с премьерами музыкальных клипов.
 
 ![youtube](youtube.png)
 
@@ -23,9 +25,13 @@ Na tym wykresie zostały przedstawione bezwględne wartości wyświetleń teledy
 
 This chart shows the absolute values of views on YouTube . The music videos were presented in the order in which they appeared on the website.
 
+## RU
+На этой диаграмме показаны абсолютные значения просмотров на YouTube . Музыкальные клипы были представлены в том порядке, в котором они появились на сайте.
+
 
 Zrodla danych:
 Sources:
+Источники
 https://pl.wikipedia.org/wiki/Bracia_Figo_Fagot
 
 https://www.youtube.com/ 20.07.2019
